@@ -1,0 +1,21 @@
+{
+  "name": "bla",
+  "homepage": "https://github.com/divljiboy/ISA",
+  "authors": [
+    "divljiboy <ivan93.ns@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
